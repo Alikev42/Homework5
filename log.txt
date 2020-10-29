@@ -1,0 +1,10 @@
+Bad score for Bob, ignored.
+Bad score for Eric, ignored.
+Bad score for Kane, ignored.
+Bad score for Mary, ignored.
+Bad score for Nate, ignored.
+Bad score for NoName, ignored.
+Bad score for Ralph, ignored.
+Bad score for Sam, ignored.
+Bad score for Turchick, ignored.
+The class average is 1503.41 for 17 students.
